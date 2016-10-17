@@ -3,7 +3,7 @@ import msvcrt
 finish=10
 count=0
 print "Press 'D' to move right"
-print "Press 'W' to move down"
+print "Press 'S' to move down"
 
 print "press enter key to get started!"
 
@@ -35,7 +35,7 @@ def move_down():
 			print "\t\t\ts"
 			if count==finish:
 				print "\t\t\tMove right",
-				break
+				breakn
 		else:
 			print "GAME OVER"
 			break
