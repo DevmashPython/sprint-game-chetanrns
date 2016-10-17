@@ -60,8 +60,9 @@ f_time=time.time()-s_time
 print "time taken:"+str(f_time)
 
 	
-	
-	
+'''
+specify the controls properly.
+'''
 	
 	
 	
